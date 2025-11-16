@@ -7,10 +7,10 @@
 - 🗑️  Delete when Completed
 - 🎨 Css Modules-Scoped styles
 
-## 🚀 Quick Links
-
 ### 🌐 Live Demo
 [**View Live Application**](https://my-todo-app-inky-zeta.vercel.app/)
 
 ### Project View 
 - <p align="center"> <img src='./src/assets/image.png' alt='img output' with=400PX /> </p>
+  
+- ✍️ _By [Tasnim Kulle](https://github.com/TasnimKulle)_
